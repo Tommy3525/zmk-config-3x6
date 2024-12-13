@@ -12,7 +12,7 @@
             &kp KP_N7 &kp KP_N8 &kp KP_N9
             &kp KP_A &kp KP_B &kp KP_C
             &kp KP_D &kp KP_E &kp KP_F
-            &kp KP_G           &kp KP_H
+            &kp KP_G &none &kp KP_H
         >;
     };
 };
